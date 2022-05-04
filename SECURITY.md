@@ -4,7 +4,7 @@
 
 Microsoft prend très au sérieux la sécurité de nos produits et services logiciels, qui inclut tous les dépôts de code source gérés par nos organisations GitHub, notamment [Microsoft](https://github.com/Microsoft), [Azure](https://github.com/Azure), [DotNet](https://github.com/dotnet), [AspNet](https://github.com/aspnet), [Xamarin](https://github.com/xamarin) et [nos organisations GitHub](https://opensource.microsoft.com/).
 
-Si vous pensez avoir trouvé une faille de sécurité dans un dépôt appartenant à Microsoft qui répond à [la définition de Microsoft d’une faille de sécurité](https://docs.microsoft.com/en-us/previous-versions/tn-archive/cc751383(v=technet.10)), veuillez nous la signaler comme décrit ci-dessous.
+Si vous pensez avoir trouvé une faille de sécurité dans un dépôt appartenant à Microsoft qui répond à [la définition de Microsoft d’une faille de sécurité](https://docs.microsoft.com/fr-fr/previous-versions/tn-archive/cc751383(v=technet.10)), veuillez nous la signaler comme décrit ci-dessous.
 
 ## <a name="reporting-security-issues"></a>Signaler des problèmes de sécurité
 
@@ -12,7 +12,7 @@ Si vous pensez avoir trouvé une faille de sécurité dans un dépôt appartenan
 
 Veuillez plutôt les signaler dans le Centre de réponse aux problèmes de sécurité Microsoft sur [https://msrc.microsoft.com/create-report](https://msrc.microsoft.com/create-report).
 
-Si vous préférez l’envoyer sans vous connecter, envoyez un e-mail à [secure@microsoft.com](mailto:secure@microsoft.com).  Si possible, chiffrez votre message avec notre clé PGP que vous pouvez télécharger à partir de la [page de la clé PGP du Centre de réponse aux problèmes de sécurité Microsoft](https://www.microsoft.com/en-us/msrc/pgp-key-msrc).
+Si vous préférez l’envoyer sans vous connecter, envoyez un e-mail à [secure@microsoft.com](mailto:secure@microsoft.com).  Si possible, chiffrez votre message avec notre clé PGP que vous pouvez télécharger à partir de la [page de la clé PGP du Centre de réponse aux problèmes de sécurité Microsoft](https://www.microsoft.com/fr-fr/msrc/pgp-key-msrc).
 
 Vous devez recevoir une réponse dans les 24 heures. Si, pour une raison quelconque vous ne le faites pas, veuillez nous adresse un e-mail de suivi pour vous assurer que nous avons bien reçu votre message original. Vous trouverez des informations supplémentaires sur [microsoft.com/msrc](https://www.microsoft.com/msrc). 
 
@@ -36,6 +36,6 @@ Nous préférons que toutes les communications soient en anglais.
 
 ## <a name="policy"></a>Stratégie
 
-Microsoft suit le principe de la [Divulgation coordonnée des vulnérabilités](https://www.microsoft.com/en-us/msrc/cvd).
+Microsoft suit le principe de la [Divulgation coordonnée des vulnérabilités](https://www.microsoft.com/fr-fr/msrc/cvd).
 
 <!-- END MICROSOFT SECURITY.MD BLOCK -->
